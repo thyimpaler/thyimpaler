@@ -62,7 +62,6 @@ head mod at **$HENNY** through a $105k all-time high. moderating **klein funding
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thyimpaler&show_icons=true&hide_border=true&bg_color=0d0b09&title_color=ffc400&text_color=ede6da&icon_color=ffc400&hide_title=true" />
   <img height="160" src="https://streak-stats.demolab.com?user=thyimpaler&hide_border=true&background=0d0b09&ring=ffc400&fire=ffc400&currStreakNum=ede6da&sideNums=ede6da&currStreakLabel=ffc400&sideLabels=a89f92&dates=6b6155&stroke=2a2520" />
 </p>
 
