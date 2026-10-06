@@ -13,6 +13,7 @@ permissions:
 jobs:
   snake:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: Platane/snk@v3
         with:
